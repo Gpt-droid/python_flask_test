@@ -1,0 +1,7 @@
+# 1. Any syntax include lines must go first (if you have them)
+include "/usr/share/nano/*.nanorc"
+
+# 2. Your custom overrides must go at the absolute bottom
+set tabstospaces
+set tabsize 2
+set autoindent 
